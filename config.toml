@@ -1,0 +1,13 @@
+baseURL = "https://jimny-team.by/"
+languageCode = "ru-ru"
+title = "Jimny Team Belarus"
+theme = "pulp"
+canonifyurls = true
+hasCJKLanguage = true
+
+[params]
+    author = "Jimny Team Belarus"
+    avatar = "jimny_team_belarus.png"
+    favicon = "logo.svg"
+
+
